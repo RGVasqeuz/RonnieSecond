@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        // TODO MRS. KELLY WAS HERE
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
